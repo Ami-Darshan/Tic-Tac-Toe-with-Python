@@ -2,7 +2,7 @@
 
 <pre>git clone https://github.com/Ami-Darshan/Tic-Tac-Toe-with-Python.git</pre>
 <pre>cd Tic-Tac-Toe</pre>
-<pre>python3 main.py</pre>
+<pre>python3 ttt_ready.py</pre>
 
 
 ### Controls...
